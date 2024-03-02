@@ -12,3 +12,4 @@ C:\git\ddp\obj\Debug\net9.0\refint\ddp.dll
 C:\git\ddp\obj\Debug\net9.0\ddp.pdb
 C:\git\ddp\obj\Debug\net9.0\ddp.genruntimeconfig.cache
 C:\git\ddp\obj\Debug\net9.0\ref\ddp.dll
+C:\git\ddp\obj\Debug\net9.0\ddp.sourcelink.json
