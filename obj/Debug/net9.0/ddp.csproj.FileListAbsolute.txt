@@ -1,0 +1,14 @@
+C:\git\ddp\obj\Debug\net9.0\ddp.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\ddp\obj\Debug\net9.0\ddp.AssemblyInfoInputs.cache
+C:\git\ddp\obj\Debug\net9.0\ddp.AssemblyInfo.cs
+C:\git\ddp\obj\Debug\net9.0\ddp.csproj.CoreCompileInputs.cache
+C:\git\ddp\bin\Debug\net9.0\ddp.exe
+C:\git\ddp\bin\Debug\net9.0\ddp.deps.json
+C:\git\ddp\bin\Debug\net9.0\ddp.runtimeconfig.json
+C:\git\ddp\bin\Debug\net9.0\ddp.dll
+C:\git\ddp\bin\Debug\net9.0\ddp.pdb
+C:\git\ddp\obj\Debug\net9.0\ddp.dll
+C:\git\ddp\obj\Debug\net9.0\refint\ddp.dll
+C:\git\ddp\obj\Debug\net9.0\ddp.pdb
+C:\git\ddp\obj\Debug\net9.0\ddp.genruntimeconfig.cache
+C:\git\ddp\obj\Debug\net9.0\ref\ddp.dll
