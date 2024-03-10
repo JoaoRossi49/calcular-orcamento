@@ -12,10 +12,18 @@ namespace DDP
         public double Valor { get => valor; set => valor = value; }
 
         public Orcamento(List<Item> itens){
+            this.itens = itens;
             foreach(var item in itens){
                 Valor += item.Valor;
             }
         }
 
+        public int getQuantidadeItens(){
+            return this.itens.Count;
+        }
+
+        public List<Item> getListaItens(){
+            return this.itens;
+        }
     }
 }

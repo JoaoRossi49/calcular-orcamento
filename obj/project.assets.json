@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rossi\\.nuget\\packages\\": {}
+    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\ddp\\ddp.csproj",
+      "projectUniqueName": "D:\\Git\\calcular-orcamento\\ddp.csproj",
       "projectName": "ddp",
-      "projectPath": "C:\\git\\ddp\\ddp.csproj",
-      "packagesPath": "C:\\Users\\Rossi\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\ddp\\obj\\",
+      "projectPath": "D:\\Git\\calcular-orcamento\\ddp.csproj",
+      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\calcular-orcamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rossi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
